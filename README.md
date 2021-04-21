@@ -1,7 +1,7 @@
 # Docker Environment for WordPress
 
-- Wordpress installation goes into the ./src folder
-- MySQL server is run on `localhost:3306` and the setup is within ./env/mysql.env
+- Wordpress installation goes into the `./src` folder
+- MySQL server is run on `localhost:3306` and the setup is within `./env/mysql.env`
 
 ```
 /** MySQL hostname */
