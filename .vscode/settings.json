@@ -1,0 +1,23 @@
+{
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[css]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
+
+    "eslint.options": {
+        "configFile": "./src/wp-content/themes/stoneinjurylawyers/_assets/.eslintrc.js"
+    },
+
+    "css.validate": false,
+    "stylelint.enable": true,
+    "stylelint.configFile": "./src/wp-content/themes/stoneinjurylawyers/_assets/.stylelintrc.json",
+
+    "files.associations": {
+        "*.css": "postcss"
+    }
+}
